@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/lienhe/app/src/main/res/drawable/border_bottom.xml" value="0.1225" />
+        <entry key="..\:/lienhe/app/src/main/res/drawable/border_edittext.xml" value="0.138" />
+        <entry key="..\:/lienhe/app/src/main/res/drawable/cus_button_add.xml" value="0.1275" />
+        <entry key="..\:/lienhe/app/src/main/res/drawable/ic_close.xml" value="0.1225" />
+        <entry key="..\:/lienhe/app/src/main/res/drawable/ic_home.xml" value="0.12" />
+        <entry key="..\:/lienhe/app/src/main/res/drawable/ic_star.xml" value="0.1225" />
+        <entry key="..\:/lienhe/app/src/main/res/drawable/ic_user.xml" value="0.1275" />
+        <entry key="..\:/lienhe/app/src/main/res/drawable/star.xml" value="0.1225" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/activity_add.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/activity_detail.xml" value="0.21296296296296297" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/activity_edit.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/activity_flash_screen.xml" value="0.18426678067550234" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/add_toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/contact_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/contact_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/edit_toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/home_category_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/home_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/home_item.xml" value="0.2" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/ic_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/last_item.xml" value="0.18426678067550234" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/love_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/love_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/mmm.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/se.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/search_contact.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/search_contact_item.xml" value="0.18426678067550234" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/serach_bar.xml" value="0.18426678067550234" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/toolbar.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/layout/user_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/menu/bottom_navigation.xml" value="0.22447916666666667" />
+        <entry key="..\:/lienhe/app/src/main/res/menu/menutest.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="@drawable/border_bottom">
+
+    <ImageView
+        android:id="@+id/ic_close_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:padding="16dp"
+        android:src="@drawable/ic_close" />
+
+    <TextView
+        android:id="@+id/text_toolbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/ic_close_add"
+        android:text="Tạo người liên hệ"
+        android:textSize="23sp" />
+
+    <RelativeLayout
+        android:id="@+id/end_toolbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true">
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="15dp"
+            android:background="@drawable/cus_button_add"
+            android:insetTop="0dp"
+            android:insetBottom="0dp"
+            android:rotation="0"
+            android:text="Lưu"
+            android:textAllCaps="false" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

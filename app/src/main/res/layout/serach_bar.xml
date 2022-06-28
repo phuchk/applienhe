@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="60dp">
+
+    <SearchView
+        android:id="@+id/contact_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:iconifiedByDefault="false"
+        android:closeIcon="@null"
+        android:queryHint="Nhập tên hoặc số điện thoại"
+        android:searchIcon="@null" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/mn11"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        app:menu="@menu/menutest" />
+
+</RelativeLayout>
